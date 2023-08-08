@@ -1,29 +1,25 @@
-
-                                                                                            
-                                                                                            
-                                                                                            
-                                                                    ..;===+.                
-                                                                .:=iiiiii=+=                
-                                                             .=i))=;::+)i=+,                
-                                                          ,=i);)I)))I):=i=;                 
-                                                       .=i==))))ii)))I:i++                  
-                                                     +)+))iiiiiiii))I=i+:'                  
-                                .,:;;++++++;:,.       )iii+:::;iii))+i='                            _..._
-                             .:;++=iiiiiiiiii=++;.    =::,,,:::=i));=+'                           .'     '.      _
-                           ,;+==ii)))))))))))ii==+;,      ,,,:=i))+=:                            /    .-""-\   _/ \
-                         ,;+=ii))))))IIIIII))))ii===;.    ,,:=i)=i+                            .-|   /:.   |  |   |
-                        ;+=ii)))IIIIITIIIIII))))iiii=+,   ,:=));=,                             |  \  |:.   /.-'-./
-                      ,+=i))IIIIIITTTTTITIIIIII)))I)i=+,,:+i)=i+                               | .-'-;:__.'    =/
-                     ,+i))IIIIIITTTTTTTTTTTTI))IIII))i=::i))i='                                .'=  *=|NASA _.='
-                    ,=i))IIIIITLLTTTTTTTTTTIITTTTIII)+;+i)+i`                                 /   _.  |    ;
-                    =i))IIITTLTLTTTTTTTTTIITTLLTTTII+:i)ii:'                                 ;-.-'|    \   |
-                   +i))IITTTLLLTTTTTTTTTTTTLLLTTTT+:i)))=,                                  /   | \    _\  _\
-                   =))ITTTTTTTTTTTLTTTTTTLLLLLLTi:=)IIiii;                                  \__/'._;.  ==' ==\
-                  .i)IIITTTTTTTTLTTTITLLLLLLLT);=)I)))))i;                                           \    \   |
-                  :))IIITTTTTLTTTTTTLLHLLLLL);=)II)IIIIi=:                                           /    /   /
-                  :i)IIITTTTTTTTTLLLHLLHLL)+=)II)ITTTI)i=                                            /-._/-._/
-                  .i)IIITTTTITTLLLHHLLLL);=)II)ITTTTII)i+                                            \   `\  \
-                  =i)IIIIIITTLLLLLLHLL=:i)II)TTTTTTIII)i'                                             `-._/._/
+                                                                    ..;===+.
+                                                                .:=iiiiii=+=
+                                                             .=i))=;::+)i=+,
+                                                          ,=i);)I)))I):=i=;
+                                                       .=i==))))ii)))I:i++
+                                                     +)+))iiiiiiii))I=i+:'
+                                .,:;;++++++;:,.       )iii+:::;iii))+i='
+                             .:;++=iiiiiiiiii=++;.    =::,,,:::=i));=+'
+                           ,;+==ii)))))))))))ii==+;,      ,,,:=i))+=:
+                         ,;+=ii))))))IIIIII))))ii===;.    ,,:=i)=i+
+                        ;+=ii)))IIIIITIIIIII))))iiii=+,   ,:=));=,
+                      ,+=i))IIIIIITTTTTITIIIIII)))I)i=+,,:+i)=i+
+                     ,+i))IIIIIITTTTTTTTTTTTI))IIII))i=::i))i='
+                    ,=i))IIIIITLLTTTTTTTTTTIITTTTIII)+;+i)+i`
+                    =i))IIITTLTLTTTTTTTTTIITTLLTTTII+:i)ii:'
+                   +i))IITTTLLLTTTTTTTTTTTTLLLTTTT+:i)))=,
+                   =))ITTTTTTTTTTTLTTTTTTLLLLLLTi:=)IIiii;
+                  .i)IIITTTTTTTTLTTTITLLLLLLLT);=)I)))))i;
+                  :))IIITTTTTLTTTTTTLLHLLLLL);=)II)IIIIi=:
+                  :i)IIITTTTTTTTTLLLHLLHLL)+=)II)ITTTI)i=
+                  .i)IIITTTTITTLLLHHLLLL);=)II)ITTTTII)i+
+                  =i)IIIIIITTLLLLLLHLL=:i)II)TTTTTTIII)i'
                 +i)i)))IITTLLLLLLLLT=:i)II)TTTTLTTIII)i;                  __...----...__
               +ii)i:)IITTLLTLLLLT=;+i)I)ITTTTLTTTII))i;            .-' -=;::;::`;:::`-.
              =;)i=:,=)ITTTTLTTI=:i))I)TTTLLLTTTTTII)i;          .-'"; `-;:"";`-;   ,;;'`-.
@@ -44,7 +40,7 @@
          -=\`\
      |\ ____\_\__
    -=\c`""""""" "`)
-      `~~~~~/ /~~`
+jgs   `~~~~~/ /~~`
         -==/ /
           '-'
                 _                                  
@@ -78,20 +74,20 @@
  //____________________________\\
 . .    _________                . .
 . .   |    |    |               . .
-. .   |____|____|               . .                                                 _
-. .   |    |    |               . .          |                                    ,/A\,
-. .   |____|____|               . .          |                                  .//`_`\\, 
-. .                             . .          |                                ,//`____-`\\, 
-. .                             . .==========|                              ,//`[_ROVER_]`\\, 
-. .                 _________   . .                                       ,//`=  ==  __-  _`\\, 
-. .                |         |  . .                                      //|__=  __- == _  __|\\ 
-. .                |         |  . .                                      ` |  __ .-----.  _  | `  
-. .                |         |  . .                                        | - _/       \-   |  
-. .                |       * |  . .                                        |__  | .-"-. | __=|  
-. .                |         |  . . | -\o/- - - u - - |                    |  _=|/)   (\|    |  
-. .                |         |  . . | - | - ø - | - - |     __ -_          |-__ (/ a a \) -__|  
-. .================|=========|==. . | - - - | - - - - |    (_)T(_)         |___ /`\_Y_/`\____|  
-wwwwWWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww                         \)8===8(/  
+. .   |____|____|               . .
+. .   |    |    |               . .          |
+. .   |____|____|               . .          |
+. .                             . .          |
+. .                             . .==========|
+. .                 _________   . .
+. .                |         |  . .
+. .                |         |  . .
+. .                |         |  . .
+. .                |       * |  . .
+. .                |         |  . . | -\o/- - - u - - |                 
+. .                |         |  . . | - | - ø - | - - |     __ -_       
+. .================|=========|==. . | - - - | - - - - |    (_)T(_)      
+wwwwWWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww                 
 wwwwwWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww                                                              __----~~~~~~~~~~~------___
 wwwwwwwwWwwwwwwwwww|____|____|wwWWwwwwwWWWWWWwwwwwwwwww                                                   .  .   ~~//====......          __--~ ~~
 wwwwwWWWwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww                                   -.            \_|//     |||\\  ~~~~~~::::... /~
@@ -121,19 +117,3 @@ __/o \-//--\   \_/
 \____  ___  \  |
      ||   \ |\ |
     _||   _||_||
-
-
-              _
-            ,/A\,
-          .//`_`\\,
-        ,//`____-`\\,
-      ,//`[_ROVER_]`\\,
-    ,//`=  ==  __-  _`\\,
-   //|__=  __- == _  __|\\
-   ` |  __ .-----.  _  | `
-     | - _/       \-   |
-     |__  | .-"-. | __=|
-     |  _=|/)   (\|    |
-     |-__ (/ a a \) -__|
-     |___ /`\_Y_/`\____|
-          \)8===8(/
