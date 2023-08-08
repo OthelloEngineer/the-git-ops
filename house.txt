@@ -39,9 +39,8 @@
 . .                |         |  . .
 . .                |         |  . .
 . .                |         |  . . | -\o/- - - u - - |
-. .                |       * |  . . | - | - ø - | - - |
-. .                |         |  . . | - - - | - - - - |
-. .________________|_________|__. . | - - - - - - - - |
+. .                |       * |  . . | - | - ø - | - - |     __ -_
+. .                |         |  . . | - - - | - - - - |    (_)T(_)
 wwwwWWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww
 wwwwwWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww
 wwwwwwwwWwwwwwwwwww|____|____|wwWWwwwwwWWWWWWwwwwwwwwww
