@@ -41,9 +41,9 @@
 . .                |         |  . . | -\o/- - - u - - |
 . .                |       * |  . . | - | - ø - | - - |
 . .                |         |  . . | - - - | - - - - |
-. .                |         |  . . | - - - - - - - - |
-            _________
-            |___|___|
-            |___|___|
-            |___|___|
-            |___|___|
+. .________________|_________|__. . | - - - - - - - - |
+wwwwWWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwWwwwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwWwwwwwwwwww|____|____|wwWWwwwwwWWWWWWwwwwwwwwww
+wwwwwWWWwwwwwwwwwww|____|____|wwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwww|____|____|wwwWWwWWWWWWWWWWWWWWWWWWW
